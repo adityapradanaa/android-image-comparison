@@ -1,5 +1,4 @@
-Feature: User Do Success Onboarding
+Feature: Compare Images
 
-    Scenario: User Successfully Onboarding
+    Scenario: Compare Onboarding Images 
         Given User on Kompasid onboarding
-       

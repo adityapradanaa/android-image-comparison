@@ -14,12 +14,12 @@
     },
     "scripts": {
         "wdio": "wdio run wdio.conf.js",
-        "start-server": "appium",
         "test": "wdio wdio.conf.js"
     },
     "dependencies": {
         "appium": "^1.22.1",
         "dotenv": "^10.0.0",
+        "pixelmatch": "^5.2.1",
         "supertest": "^6.1.6"
     }
 }
